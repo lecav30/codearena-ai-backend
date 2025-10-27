@@ -8,8 +8,7 @@
   "dependencies": {
     "@prisma/client": "^6.18.0",
     "dotenv": "^17.2.3",
-    "elysia": "latest",
-    "prismabox": "^1.1.25"
+    "elysia": "latest"
   },
   "devDependencies": {
     "bun-types": "latest",
